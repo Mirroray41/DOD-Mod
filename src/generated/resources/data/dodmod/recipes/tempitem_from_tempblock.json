@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dodmod:tempblock"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "dodmod:tempitem"
+  }
+}

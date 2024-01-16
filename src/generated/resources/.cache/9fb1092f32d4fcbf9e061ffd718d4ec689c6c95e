@@ -1,0 +1,5 @@
+// 1.20.1	2024-01-16T10:20:34.972581514	Recipes
+2fda6603a7e219ddf831f1a94cd65eab0cca8567 data/dodmod/advancements/recipes/building_blocks/tempitem_from_tempblock.json
+ef4e725b628d9493f16941a23660432473dc9ce1 data/dodmod/advancements/recipes/misc/tempblock_from_tempitem.json
+148ee1185473ade5821fac1b9be362401ab4c4aa data/dodmod/recipes/tempblock_from_tempitem.json
+9c77488a8cea8b7f65612cf0c41d6e442c57686e data/dodmod/recipes/tempitem_from_tempblock.json
