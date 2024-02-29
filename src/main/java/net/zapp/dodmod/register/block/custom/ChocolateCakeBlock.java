@@ -14,6 +14,8 @@ import net.minecraft.world.level.block.CakeBlock;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.gameevent.GameEvent;
 import net.minecraft.world.phys.BlockHitResult;
+import net.zapp.dodmod.register.effects.EffectRegister;
+import net.zapp.dodmod.register.effects.custom.DiabetesEffect;
 
 public class ChocolateCakeBlock extends CakeBlock {
     public ChocolateCakeBlock(Properties p_51184_) {
@@ -50,6 +52,7 @@ public class ChocolateCakeBlock extends CakeBlock {
             } else {
                 p_51186_.removeBlock(p_51187_, false);
                 p_51186_.gameEvent(p_51189_, GameEvent.BLOCK_DESTROY, p_51187_);
+                p_51189_.addEffect(new MobEffectInstance(EffectRegister.DIABETES_EFFECT.get(), 1000, 0));
             }
 
             return InteractionResult.SUCCESS;

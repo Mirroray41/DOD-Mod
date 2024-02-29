@@ -19,6 +19,7 @@ public class LanguageGeneratorEN_US extends LanguageProvider {
 
         add(ItemRegister.TEMPITEM.get(), "Temp Item");
         add(BlockRegister.TEMPBLOCK.get(), "Temp Block");
+        add(BlockRegister.LINOTITH.get(), "Linolith");
 
         add(BlockRegister.CHOCOLATE_CAKE.get(), "Chocolate Cake");
     }

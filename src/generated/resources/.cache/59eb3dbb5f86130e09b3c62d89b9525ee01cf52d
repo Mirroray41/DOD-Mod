@@ -1,3 +1,11 @@
-// 1.20.1	2024-01-16T11:21:30.014091589	Loot Tables
+// 1.20.1	2024-01-19T10:58:08.3777477	Loot Tables
+640d55cb63d978782b6f486cf6cf59aa070d80f0 data/dodmod/loot_tables/blocks/chair_1.json
 168cb23d0a245bb8d03cad8ad5eac3f186e8ed78 data/dodmod/loot_tables/blocks/chocolate_cake.json
+b6203534c944e8d894a7130612562a56eae154e8 data/dodmod/loot_tables/blocks/linolith.json
+98934fb5bdb8f2bd3e4b90fafab33cacdc7c7536 data/dodmod/loot_tables/blocks/pc_1.json
+367bb4105e9713675c292e2efc30bb5dbf2c3357 data/dodmod/loot_tables/blocks/pc_2.json
+c0933dcfa28eb327d8eb8e843e75bab3597a282b data/dodmod/loot_tables/blocks/rack_1.json
+d9f09428db71b84d7e920373a5eb23cbfc71274b data/dodmod/loot_tables/blocks/table_1.json
+c396624de7ea5f6cd946d9382fe4e62116277697 data/dodmod/loot_tables/blocks/table_2.json
+822ab7bafc0563a63de308fbd295c6c48c274e08 data/dodmod/loot_tables/blocks/table_3.json
 c2036e41adeb31a419b2d613d5e015b2be8a8c10 data/dodmod/loot_tables/blocks/tempblock.json

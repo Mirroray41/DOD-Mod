@@ -1,4 +1,7 @@
-// 1.20.1	2024-01-16T10:20:34.972249718	Block States: dodmod
+// 1.20.1	2024-01-19T10:58:08.380620737	Block States: dodmod
+070e629f05bd24760629502a5aed5ea28edfa038 assets/dodmod/blockstates/linolith.json
 821e5a29deeb8971c3e8292ace7422575ca907f4 assets/dodmod/blockstates/tempblock.json
+a810004d623e049974462ed9c417a7a41625d4d8 assets/dodmod/models/block/linolith.json
 1a07ada33210ad89acac1845e8c4a52f59026f51 assets/dodmod/models/block/tempblock.json
+ad4bf3e013b3ce98d15aa1b88f34f6aad9d4f27b assets/dodmod/models/item/linolith.json
 1c59e0ba36a94d7ca74be5eb5e63d4b1f8d719c8 assets/dodmod/models/item/tempblock.json

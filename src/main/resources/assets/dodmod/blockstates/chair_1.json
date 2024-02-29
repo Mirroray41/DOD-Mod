@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "dodmod:block/chair_1",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dodmod:block/chair_1"
+    },
+    "facing=south": {
+      "model": "dodmod:block/chair_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dodmod:block/chair_1",
+      "y": 270
+    }
+  }
+}

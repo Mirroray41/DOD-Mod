@@ -18,6 +18,14 @@ public class BlockLootTablesGenerator extends BlockLootSubProvider {
     protected void generate() {
         dropSelf(BlockRegister.TEMPBLOCK.get());
         dropOther(BlockRegister.CHOCOLATE_CAKE.get(), Items.AIR);
+        dropSelf(BlockRegister.LINOTITH.get());
+        dropSelf(BlockRegister.TABLE_1.get());
+        dropSelf(BlockRegister.TABLE_2.get());
+        dropSelf(BlockRegister.TABLE_3.get());
+        dropSelf(BlockRegister.CHAIR_1.get());
+        dropSelf(BlockRegister.RACK_1.get());
+        dropSelf(BlockRegister.PC_1.get());
+        dropSelf(BlockRegister.PC_2.get());
     }
 
     @Override

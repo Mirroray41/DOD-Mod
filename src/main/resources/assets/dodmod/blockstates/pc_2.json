@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "dodmod:block/pc_2",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dodmod:block/pc_2"
+    },
+    "facing=south": {
+      "model": "dodmod:block/pc_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dodmod:block/pc_2",
+      "y": 270
+    }
+  }
+}
